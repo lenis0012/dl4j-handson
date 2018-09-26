@@ -1,5 +1,7 @@
-.idea/
-*.iml
+**/.idea/
+**/*.iml
+**/target/
+**/*.class
 *.iws
 *.eml
 out/
@@ -11,3 +13,11 @@ node_modules/
 .sass-cache
 presentation/css/reveal.min.css
 presentation/js/reveal.min.js
+
+solution/dl4j-mlp/**/Assignment1.java
+solution/dl4j-mlp/**/Assignment2.java
+solution/dl4j-mlp/**/Assignment3.java
+solution/dl4j-mlp/**/Assignment4.java
+solution/dl4j-mlp/**/Assignment5.java
+solution/dl4j-mlp/**/Assignment6.java
+solution/dl4j-spring-app/
